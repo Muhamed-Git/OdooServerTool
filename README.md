@@ -1,4 +1,4 @@
 # Odoo Server Tool
 
-##requirement
-*sudo apt-get install python3-tk
+## requirement
+* sudo apt-get install python3-tk
