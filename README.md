@@ -1,6 +1,6 @@
 # Odoo Server Tool
 
-## Requirement
+## Requirements
   * sudo apt-get install python3-tk
   * pip3 install psutil
   * pip3 install requests
