@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Name=server
+Exec=python3 server.py
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Utility;Application;
+Name[en_IN]=server
