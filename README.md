@@ -7,4 +7,4 @@
   * pip3 install requests
   * pip3 install psycopg2
   
-### tested on Ubuntu 18.4 lts
+### Tested on Ubuntu 18.4 LTS
