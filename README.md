@@ -20,8 +20,8 @@ Some general keyboard shortcuts that I use frequently.
 | Multi Session | `ctrl-b` | `ctrl-b`  | `ctrl-b` |
 | Load with Enterprise On-Off | `ctrl-e` | `ctrl-e`  | `ctrl-e` |
 | Install or Update Module On-Off | `ctrl-i` | `ctrl-i`  | `ctrl-i` |
-| Increase Port | `Up-key` | `Up-key`  | `Up-key` |
-| Decrease Port | `Down-key` | `Down-key`  | `Down-key` |
+| Increase Port | `up-key` | `up-key`  | `up-key` |
+| Decrease Port | `down-key` | `down-key`  | `down-key` |
 | Open Path Window | `ctrl-/` | `ctrl-/`  | `ctrl-/` |
 | Move Cursor to Module Box  | `ctrl-m` | `ctrl-m`  | `ctrl-m` |
 | Move Cursor to Database List Box  | `ctrl-d` | `ctrl-d`  | `ctrl-d` |
