@@ -13,6 +13,7 @@
 
 * login to **postgresql** in order to manage databases
   * default login **(your postgresql credentials)**
+
       * database: **postgres**
       * username: **postgres**
       * password: **postgres**
