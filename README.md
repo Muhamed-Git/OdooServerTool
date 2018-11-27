@@ -5,8 +5,15 @@
 <br />
 
 ## How to Run
-* unzip server.tar.gz file and just need to double click on server file.
-* if its not launching you can run it from terminal and see what is wrong.
+* unzip **server.tar.gz** file and just need to double click on **server** file.
+  * if its not launching you can run it from terminal and see what is wrong.
+* set **odoo-bin** file path to the server path window
+  * (optional) if you want to use enterprise then you need to set both community and enterprise **addons** path also
+* login to postgres in order to manage databases
+  * default login
+      * Database: postgres
+      * Username: postgres
+      * Password: postgres
 
 <br />
 
