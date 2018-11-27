@@ -2,10 +2,7 @@
 
 ### Tested on Ubuntu 18.4 LTS, 16.4LTS
 
-
-# Keyboard Shortcuts
-
-## General
+## Keyboard Shortcuts
 
 Some general keyboard shortcuts that I use frequently.
 
