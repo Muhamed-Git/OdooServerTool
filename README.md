@@ -25,6 +25,7 @@ Some general keyboard shortcuts that I use frequently.
 | Open Path Window | `ctrl-/` | `ctrl-/`  | `ctrl-/` |
 | Move Cursor to Module Box  | `ctrl-m` | `ctrl-m`  | `ctrl-m` |
 | Move Cursor to Database List Box  | `ctrl-d` | `ctrl-d`  | `ctrl-d` |
+| Move Cursor to Port Box  | `ctrl-a` | `ctrl-a`  | `ctrl-a` |
 | Move Cursor to Running List  | `ctrl-l` | `ctrl-l`  | `ctrl-` |
 | Template Mode On-Off | `alt-t` | `alt-t`  | `alt-t` |
 | Exit | `ctrl-q` | `ctrl-q`  | `ctrl-q` |
