@@ -3,6 +3,7 @@
 ### Tested on Ubuntu 18.4 LTS, 16.4LTS, [macOs 10.12](https://github.com/MohitGhodasara/OdooServerTool-MacOS)
 
 
+--
 ## Keyboard Shortcuts
 
 Some general keyboard shortcuts that I use frequently.
