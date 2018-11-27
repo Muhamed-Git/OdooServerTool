@@ -33,7 +33,7 @@ Some general keyboard shortcuts that I use frequently.
 | Minimize to right of the screen | `ctrl-space` | `ctrl-space`  | `ctrl-space` |
 | Debug Mode On-Off | `ctrl-v` | `ctrl-v`  | `ctrl-v` |
 | With Demo Data On-Off | `ctrl-d` | `ctrl-d`  | `ctrl-d` |
-| Multi Session | `ctrl-b` | `ctrl-b`  | `ctrl-b` |
+| Multi Session On-Off | `ctrl-b` | `ctrl-b`  | `ctrl-b` |
 | Load with Enterprise On-Off | `ctrl-e` | `ctrl-e`  | `ctrl-e` |
 | Install or Update Module On-Off | `ctrl-i` | `ctrl-i`  | `ctrl-i` |
 | Increase Port | `up-key` | `up-key`  | `up-key` |
