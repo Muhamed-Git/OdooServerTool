@@ -4,6 +4,12 @@
 
 <br />
 
+## How to Run
+* unzip server.tar.gz file and Just need to double click on server file.
+* if its not launching you can run it from terminal and see what is wrong.
+
+<br />
+
 ## Keyboard Shortcuts
 
 Some general keyboard shortcuts that I use frequently.
