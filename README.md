@@ -26,6 +26,6 @@ Some general keyboard shortcuts that I use frequently.
 | Move Cursor to Module Box  | `ctrl-m` | `ctrl-m`  | `ctrl-m` |
 | Move Cursor to Database List Box  | `ctrl-d` | `ctrl-d`  | `ctrl-d` |
 | Move Cursor to Port Box  | `ctrl-a` | `ctrl-a`  | `ctrl-a` |
-| Move Cursor to Running List  | `ctrl-l` | `ctrl-l`  | `ctrl-` |
+| Move Cursor to Running List  | `ctrl-l` | `ctrl-l`  | `ctrl-l` |
 | Template Mode On-Off | `alt-t` | `alt-t`  | `alt-t` |
 | Exit | `ctrl-q` | `ctrl-q`  | `ctrl-q` |
