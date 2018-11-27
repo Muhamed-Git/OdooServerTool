@@ -17,8 +17,6 @@
       * username: **postgres**
       * password: **postgres**
 
-* **start**
-
 <br />
 
 ## Keyboard Shortcuts
