@@ -5,7 +5,7 @@
 <br />
 
 ## How to Run
-* unzip **server.tar.gz** file and just need to double click on **server** file.
+* unzip **server.zip** file and just need to double click on **server** file.
   * if its not launching you can run it from terminal and see what is wrong.
 
 * set **odoo-bin** file path to the server path window
